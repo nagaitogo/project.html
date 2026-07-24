@@ -18,25 +18,9 @@ nav{
     padding: 10px;
 }
 
-nav a{
-    color: white;
-    text-decoration: none;
-    margin: 15px;
-    font-weight: bold;
-}
 
-nav a:hover{
-    color: yellow;
-}
 
-main{
-    padding: 20px;
-}
-
-img{
-    border: 3px solid gray;
-    border-radius: 10px;
-}
+nav a:hover{ color: yellow; }
 
 ul{ list-style-position: inside; text-align: center; }
 
