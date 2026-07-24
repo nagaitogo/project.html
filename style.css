@@ -12,7 +12,7 @@ nav a{ color: white; text-decoration: none; }
 
 nav a:hover{ color: yellow; }
 
-ul{ list-style-position: inside; text-align: center; }
+ul{ list-style-position: inside; }
 
 footer{
     background-color: #4682b4;
