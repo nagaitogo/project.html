@@ -1,3 +1,51 @@
 body {background-color: lightgreen; }
 h1 {color: #1B365D; }
 h2 {color: #1B365D; }
+body{
+    font-family: sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    text-align: center;
+}
+
+header{
+    background-color: #4682b4;
+    color: white;
+    padding: 20px;
+}
+
+nav{
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: yellow;
+}
+
+main{
+    padding: 20px;
+}
+
+img{
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+footer{
+    background-color: #4682b4;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+}
