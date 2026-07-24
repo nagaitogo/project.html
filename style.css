@@ -14,9 +14,5 @@ nav a:hover{ color: yellow; }
 
 ul{ list-style-position: inside; }
 
-footer{
-    background-color: #4682b4;
-    color: white;
-    padding: 10px;
-    margin-top: 30px;
-}
+footer{ background-color: #4682b4;
+    color: white; }
